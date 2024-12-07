@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "titulo": "Lección 1: Saludos",
+        "descripcion": "Aprende a saludar en coreano",
+        "ejercicios": [
+            {
+                "pregunta": "¿Cómo se dice 'hola' en coreano?",
+                "respuesta": "안녕하세요"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'gracias' en coreano?",
+                "respuesta": "감사합니다"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'adiós' en coreano?",
+                "respuesta": "안녕히 가세요"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'por favor' en coreano?",
+                "respuesta": "제발"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'sí' en coreano?",
+                "respuesta": "네"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'no' en coreano?",
+                "respuesta": "아니요"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'buenos días' en coreano?",
+                "respuesta": "좋은 아침입니다"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'buenas noches' en coreano?",
+                "respuesta": "안녕히 주무세요"
+            },
+            {
+                "pregunta": "¿Cómo se dice '¿cómo estás?' en coreano?",
+                "respuesta": "어떻게 지내세요?"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'bien' en coreano?",
+                "respuesta": "잘 지내요"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'mal' en coreano?",
+                "respuesta": "안 좋아요"
+            },
+            {
+                "pregunta": "¿Cómo se dice '¿qué tal?' en coreano?",
+                "respuesta": "어떻게 지내세요?"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'me llamo...' en coreano?",
+                "respuesta": "제 이름은 ...입니다"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'encantado de conocerte' en coreano?",
+                "respuesta": "만나서 반갑습니다"
+            },
+            {
+                "pregunta": "¿Cómo se dice '¿de dónde eres?' en coreano?",
+                "respuesta": "어디서 오셨어요?"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'soy de...' en coreano?",
+                "respuesta": "저는 ...에서 왔어요"
+            },
+            {
+                "pregunta": "¿Cómo se dice '¿cuántos años tienes?' en coreano?",
+                "respuesta": "몇 살이에요?"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'tengo ... años' en coreano?",
+                "respuesta": "저는 ...살이에요"
+            },
+            {
+                "pregunta": "¿Cómo se dice '¿qué haces?' en coreano?",
+                "respuesta": "무슨 일을 하세요?"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'trabajo como...' en coreano?",
+                "respuesta": "저는 ...로 일해요"
+            }
+        ]
+    }
+]
+

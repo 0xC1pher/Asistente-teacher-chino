@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "titulo": "Lección 1: Saludos",
+        "descripcion": "Aprende a saludar en coreano",
+        "ejercicios": [
+            {
+                "pregunta": "¿Cómo se dice 'hola' en coreano?",
+                "respuesta": "안녕하세요"
+            },
+            {
+                "pregunta": "¿Cómo se dice 'gracias' en coreano?",
+                "respuesta": "감사합니다"
+            }
+        ]
+    }
+]
